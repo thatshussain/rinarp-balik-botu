@@ -3,7 +3,6 @@ Python ve OpenCV kullanarak Rina Roleplay'in aktif olarak kullandığı balık t
 
 
 sparko örnegi: https://prnt.sc/WJJGQIqkf-Bv
-kaynak kodları: https://github.com/thatsquecy/rinarp-...
 geri kalanlar;
 - https://code.visualstudio.com/
 - https://sparkosoft.com/sparkocam-down...
